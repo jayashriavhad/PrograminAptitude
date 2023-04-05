@@ -1,3 +1,7 @@
+
+//2. Write a program to calculate the average height of all the students of a class.
+     The number of students and their heights in a class are entered by user.
+
 import java.util.Scanner;
 
 public class Height
